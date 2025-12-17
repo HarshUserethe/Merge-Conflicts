@@ -1,1 +1,1 @@
-const result = 18;
+const output = 18;
